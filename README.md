@@ -37,10 +37,10 @@ EmpID:Emp_Name:Business_Unit:Expertise:Designation
 ## Acknowledgement
 This project is part of Capgemini Post-Onboarding Freshers Training.
 
-*Batch: E2E-Manipal-Systems C CPP Linux Programming PT Aug 4th Batch2*
+*Batch: E2E-Manipal-Systems C Linux Programming fasttrack 3rd Nov Group 3 Batch7*
 ## Contributors:
-- [Aman Bhaskar](https://github.com/amanbh2)
-- [Karan Nareshbhai Telar](https://github.com/telarKaran)
-- [Krishna Chaitanya Chekka](https://github.com/Chaitu1018)
-- [Sreehari  Ps](https://github.com/sreeharipavvatta)
-- [Singuluri Sai Vamsee Krishna](https://github.com/ssvk053)
+- [Pavani Mittapalli](https://github.com/pavanimittapalli)
+- [Janga Bhanu Sahithya]()
+- []()
+- []()
+- []()
