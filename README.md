@@ -8,12 +8,9 @@ Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
    1. [Cut](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT)
       1. [Code](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE)
          1. [Bin](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/BIN): Contains executable file.
-         2. [Data](Project/CUT/Code/data/): Contains input data file.   
-            1. [out](Project/CUT/Code/data/out/): Contains output files generated after execution of program.
-         3. [Header](Project/CUT/Code/Header/): Contains all header files.
-         4. [Make](Project/CUT/Code/Make/): Contains Makefile.
-         5. [Obj](Project/CUT/Code/obj/): Contains compiled object files.
-         6. [SRC](Project/CUT/Code/SRC/): Contains source code.
+         2. [Data](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/DATA): Contains input data file.   
+            1. [Output](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/OUTPUT): Contains output files generated after execution of program.
+        2. [SRC](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/SRC): Contains source code.
       2. [CodeInspectionLog](Project/CUT/CodeInspectionLog/)
       3. [ToolsReport](Project/CUT/ToolsReport/)
          1. [CUnit](Project/CUT/ToolsReport/CUnit/): Contains Unit Testing Report
