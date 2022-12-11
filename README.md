@@ -41,6 +41,6 @@ This project is part of Capgemini Post-Onboarding Freshers Training.
 ## Contributors:
 - [Pavani Mittapalli](https://github.com/pavanimittapalli)
 - [Janga Bhanu Sahithya]()
-- []()
-- []()
-- []()
+- [Sowjanya Patil]()
+- [Rumal Sukanya]()
+- [Pala Uma]()
