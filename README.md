@@ -4,7 +4,7 @@ This project aims to develop a Defect Programmer Assignments application where c
 Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
 
 ## Directory Structure
-1. [Project](Project/): Main Project folder.
+1. [Project](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS): Main Project folder.
    1. [Cut](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT)
       1. [Code](Project/CUT/Code/)
          1. [Bin](Project/CUT/Code/bin/): Contains executable file.
