@@ -1,7 +1,7 @@
 # Defect Programmer Application
 This project aims to develop a Defect Programmer Assignments application where clients of a Software Development company report defects in software they purchased. These defects are assigned to programmers depending on the functional area they are handling.
 
-Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
+Read complete [SRS](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/SRS/SRS_DefectProgrammer.pdf) Document here.
 
 ## Directory Structure
 1. [Project](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS): Main Project folder.
