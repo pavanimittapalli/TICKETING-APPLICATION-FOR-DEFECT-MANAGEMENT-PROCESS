@@ -7,7 +7,7 @@ Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
 1. [Project](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS): Main Project folder.
    1. [Cut](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT)
       1. [Code](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE)
-         1. [Bin](Project/CUT/Code/bin/): Contains executable file.
+         1. [Bin](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/BIN): Contains executable file.
          2. [Data](Project/CUT/Code/data/): Contains input data file.   
             1. [out](Project/CUT/Code/data/out/): Contains output files generated after execution of program.
          3. [Header](Project/CUT/Code/Header/): Contains all header files.
