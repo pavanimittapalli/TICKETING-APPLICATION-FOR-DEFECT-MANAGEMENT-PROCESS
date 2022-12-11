@@ -5,7 +5,7 @@ Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
 
 ## Directory Structure
 1. [Project](Project/): Main Project folder.
-   1. [Cut](Project/CUT/)
+   1. [Cut](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT)
       1. [Code](Project/CUT/Code/)
          1. [Bin](Project/CUT/Code/bin/): Contains executable file.
          2. [Data](Project/CUT/Code/data/): Contains input data file.   
