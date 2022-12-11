@@ -11,19 +11,19 @@ Read complete [SRS](Project/SRS/SRS_DefectProgrammer.pdf) Document here.
          2. [Data](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/DATA): Contains input data file.   
             1. [Output](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/OUTPUT): Contains output files generated after execution of program.
         2. [SRC](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/SRC): Contains source code.
-      2. [CodeInspectionLog](Project/CUT/CodeInspectionLog/)
-      3. [ToolsReport](Project/CUT/ToolsReport/)
-         1. [CUnit](Project/CUT/ToolsReport/CUnit/): Contains Unit Testing Report
-         2. [Splint](Project/CUT/ToolsReport/Splint/): Contains Splint Test Report
-         3. [Valgrind](Project/CUT/ToolsReport/Valgrind/): Contains Valgrind Test Report
-      4. [UT&ITReport](Project/CUT/UT_IT%20Plan%20Reports/)
-   2. [Design](Project/DESIGN/): Contains Code & Design Review Checklist Documents and Pseudocodes.
-   3. [Plan](Project/Plan/): Contains Minutes of Meetings & Sprint Schedule.
-   4. [RTM](Project/RTM/): Contains Requirement Tracibility Matrix Document.
-   5. [SRS](Project/SRS/): Contains our SRS {Software Requirement Specification} Document.
-   6. [Storyboard](Project/Storyboard/)
-2. [README](README.md): Introductory file.
-3. [Checklist](checklist.md): Contains checklist of entire project.
+      2. [CodeInspectionLog](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CodeInspectionLog)
+      3. [ToolsReport](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport)
+         1. [CUnit](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport/CUnit): Contains Unit Testing Report
+         2. [Splint](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport/Splint): Contains Splint Test Report
+         3. [Valgrind](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport/Valgrind): Contains Valgrind Test Report
+      4. [UT&ITReport](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/UT_IT%20Plan%20Reports)
+   2. [Design](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/DESIGN): Contains Code & Design Review Checklist Documents and Pseudocodes.
+   3. [Plan](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/plan): Contains Minutes of Meetings & Sprint Schedule.
+   4. [RTM](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/RTM): Contains Requirement Tracibility Matrix Document.
+   5. [SRS](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/SRS): Contains our SRS {Software Requirement Specification} Document.
+   6. [Storyboard](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/STORY%20BOARD)
+2. [README](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/blob/main/README.md): Introductory file.
+3. [Checklist](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/blob/main/checklist.md): Contains checklist of entire project.
 
 ## Input Files
 ### Defect File Format
