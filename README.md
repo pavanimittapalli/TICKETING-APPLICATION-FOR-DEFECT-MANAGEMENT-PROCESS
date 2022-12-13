@@ -10,7 +10,7 @@ Read complete [SRS](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FO
          1. [Bin](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/Code/bin): Contains executable file.
          2. [Data](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/Code/data): Contains input data file.   
             1. [Output](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/Code/data/out): Contains output files generated after execution of program.
-        2. [SRC](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CODE/SRC): Contains source code.
+        2. [SRC](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/Code/SRC): Contains source code.
       2. [CodeInspectionLog](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/CodeInspectionLog)
       3. [ToolsReport](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport)
          1. [CUnit](https://github.com/pavanimittapalli/TICKETING-APPLICATION-FOR-DEFECT-MANAGEMENT-PROCESS/tree/main/Sprint1_Defect%20management/CUT/ToolsReport/CUnit): Contains Unit Testing Report
