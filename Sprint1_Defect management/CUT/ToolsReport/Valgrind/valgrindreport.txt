@@ -1,5 +1,5 @@
 ==23562== Memcheck, a memory error detector
-==23562== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==23562==  GNU GPL'd, by Julian Seward et al.
 ==23562== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
 ==23562== Command: ./app.exe
 ==23562== 
