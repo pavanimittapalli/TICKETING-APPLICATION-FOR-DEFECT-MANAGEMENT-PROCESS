@@ -2,7 +2,7 @@
 At line:1 char:1
 + splint fun_head.h 2> ../../ToolsReport/Splint/splintreport.txt
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (Splint 3.1.2 --- 11 Sep 2013:String) [], RemoteException
+    + CategoryInfo          : NotSpecified: (Splint 3.1.2 --- 11 dec 2022:String) [], RemoteException
     + FullyQualifiedErrorId : NativeCommandError
  
 
